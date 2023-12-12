@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Brainstorm</string>
+    <string name="titulo_app">Brainstorm</string>
+    <string name="nome">Nome</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="email">E-mail</string>
+    <string name="usuarioIncorreto">Usuário Incorreto</string>
+    <string name="senha">Senha</string>
+    <string name="senhaIncorreta">Senha Incorreta</string>
+    <string name="confirmarSenha">Confirmar Senha</string>
+    <string name="listaProjetos">Lista de Projetos</string>
+    <string name="nomeProjeto">Nome:</string>
+    <string name="prazoProjeto">Prazo:</string>
+    <string name="descricaoProjeto">Descrição:</string>
+
+</resources>

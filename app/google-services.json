@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867884191478",
+    "project_id": "brainstorm-acd19",
+    "storage_bucket": "brainstorm-acd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867884191478:android:9375a2bb03f75656a2a6d7",
+        "android_client_info": {
+          "package_name": "com.example.contatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSkPRBBUF_4zWxQsACs7DRCFx2yCEBHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
